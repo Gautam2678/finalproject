@@ -21,5 +21,10 @@ Here i create a food store website that helps to find good quality of food at ch
 ![image](https://user-images.githubusercontent.com/110805373/194885465-936a05fe-50a4-4f5d-97e4-1128f45d7bbf.png)
 ![image](https://user-images.githubusercontent.com/110805373/194885673-f9a30712-069c-4a7e-9063-1dd7f2d6d780.png)
 
+## Azure
+![image](https://user-images.githubusercontent.com/110805373/194888509-26014737-0e5a-4f06-9b5e-5a5b1fcfd89e.png)
+![image](https://user-images.githubusercontent.com/110805373/194888632-dc12562f-d760-4825-9f87-df20dd8442ad.png)
+
+
 
 

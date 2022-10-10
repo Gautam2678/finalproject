@@ -15,6 +15,7 @@ Here i create a food store website that helps to find good quality of food at ch
 ![image](https://user-images.githubusercontent.com/110805373/194884212-e02f62a0-a92a-477f-9159-db4903ca8667.png)
 ![image](https://user-images.githubusercontent.com/110805373/194884450-a0cd69a5-c41c-4581-821d-ffad8cbb49de.png)
 ![image](https://user-images.githubusercontent.com/110805373/194884783-7982374b-ff2a-43ba-b86f-36c890c3b824.png)
+![image](https://user-images.githubusercontent.com/110805373/194885095-a52be6de-3427-41bc-968d-441ee19ff773.png)
 
 
 

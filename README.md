@@ -5,6 +5,7 @@ Here i create a food store website that helps to find good quality of food at ch
 
 
 ## Home page
+![image](https://user-images.githubusercontent.com/110805373/194883028-686f3714-f1aa-42bc-a881-e889f87e23d7.png)
 
 
 
